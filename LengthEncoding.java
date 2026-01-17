@@ -27,6 +27,5 @@ public class LengthEncoding {
         String s="aaabbbbeeeeddddd";
         String result=ReturntheString(s);
         System.out.println(result);
-
     }
 }
